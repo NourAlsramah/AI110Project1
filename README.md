@@ -26,12 +26,17 @@ It wrote the code, ran away, and now the game is unplayable.
 ## 📝 Document Your Experience
 
 - [ ] Describe the game's purpose.
+The games purpose is to be guessing game!
 - [ ] Detail which bugs you found.
+I found bugs with the hints being opposite than intended and the score not starting at 0 while also not resseting with a new game.
 - [ ] Explain what fixes you applied.
+I added fixes to the bugs I mentioned above!
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
+- 
+![Winning Game](Screenshot 2026-03-14 at 10.45.30 PM.png)
+
 
 ## 🚀 Stretch Features
 
